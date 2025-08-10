@@ -1,4 +1,4 @@
-torch==1.7.1+cpu
+torch==2.8.0+cpu
 torchvision==0.8.2+cpu
 utils==1.0.1
 matplotlib==3.3.3
