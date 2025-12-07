@@ -17,3 +17,4 @@ pytorch-fid==0.2.0
 # six
 # requests
 # dataclasses
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
