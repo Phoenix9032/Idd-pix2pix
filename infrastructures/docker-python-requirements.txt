@@ -1,4 +1,4 @@
-torch==1.7.1+cpu
+torch==2.10.0+cpu
 torchvision==0.8.2+cpu
 utils==1.0.1
 matplotlib==3.3.3
@@ -17,3 +17,4 @@ pytorch-fid==0.2.0
 # six
 # requests
 # dataclasses
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
